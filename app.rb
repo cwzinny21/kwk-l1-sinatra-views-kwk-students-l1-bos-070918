@@ -12,5 +12,8 @@ end
 		# says when i am at my home page, i am going to erb 
 	end
 	
+	get '/info' do 
+	  "Testing the info page"
+	end 
 	
 end
