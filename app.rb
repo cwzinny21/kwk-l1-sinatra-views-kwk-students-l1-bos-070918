@@ -9,6 +9,7 @@ end
 
 	get '/' do
 		erb :index 
+		# says when i am at my home page, i am going to erb 
 	end
 	
 	
