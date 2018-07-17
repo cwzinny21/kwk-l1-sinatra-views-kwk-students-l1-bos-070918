@@ -5,8 +5,7 @@ class App < Sinatra::Base
 configure do 
   set :views, "views"
   set :public_dir, "public"
-  emd 
-
+end 
 
 	get '/' do
 		
